@@ -1,0 +1,10 @@
+ArrayTaskID file
+1 paramfiles/f090_srcfree_lrg_L36_radio_clean.json
+2 paramfiles/f090_srcfree_bgs_M10_radio_clean.json
+3 paramfiles/f090_srcfree_opt_L5_radio_clean.json
+4 paramfiles/f150_srcfree_lrg_L36_radio_clean.json
+5 paramfiles/f150_srcfree_bgs_M10_radio_clean.json
+6 paramfiles/f150_srcfree_opt_L5_radio_clean.json
+7 paramfiles/f220_srcfree_lrg_L36_radio_clean.json
+8 paramfiles/f220_srcfree_bgs_M10_radio_clean.json
+9 paramfiles/f220_srcfree_opt_L5_radio_clean.json
