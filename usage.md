@@ -1,4 +1,14 @@
-The `iskay2` pipeline is designed for pairwise kSZ analysis. For the tSZ analysis, we only use the aperture photometry functionality (see `stacking_tools.py`). `params.json` is the `iskay2` paramfile that contains the default iskay2 parameters.
+## Notes
+
+We do not provide the finished catalogs.
+
+The ACT DR6 maps are obtained from LAMBDA.
+
+`iskay2` is required: [https://github.com/patogallardo/iskay2](link)
+
+The `iskay2` pipeline is designed for pairwise kSZ analysis. For the tSZ analysis, we only use the aperture photometry functionality (see `stacking_tools.py`). `params.json` is the `iskay2` paramfile that contains the default iskay2 parameters that is generated when you first set up iskay2.
+
+
 
 ## Order of Operations
 
