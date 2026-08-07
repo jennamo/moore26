@@ -8,8 +8,7 @@ The ACT DR6 maps are obtained from LAMBDA.
 
 The `iskay2` pipeline is designed for pairwise kSZ analysis. For the tSZ analysis, we only use the aperture photometry functionality (see `stacking_tools.py`). `params.json` is the `iskay2` paramfile that contains the default iskay2 parameters that is generated when you first set up iskay2.
 
-Figure and table data is also available on Zenodo: 10.5281/zenodo.21795818  
-
+We don't include the individual sample paramfiles or profiles here (it would be a zillion files), but all of the data required to recreate the figures and tables is included here (aside from Figure 1) and is also available on Zenodo: 10.5281/zenodo.21795818  
 
 ## Order of Operations
 
